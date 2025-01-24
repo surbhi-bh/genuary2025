@@ -4,20 +4,20 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://editor.p5js.org/surbhibhatia/sketches/I5gQ2wQKP">
+      <a href="#">
         <img src="genuary_01/genuary_01_lines.png" alt="Vertical or horizontal lines only." width="200" height="200" />
         <br/>JAN. 1: Vertical or horizontal lines only
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary02/genuary02_layers.png" alt="Layers upon layers upon layers." width="200" height="200" />
+        <img src="genuary_02/genuary_02_layers.png" alt="Layers upon layers upon layers." width="200" height="200" />
         <br/>JAN. 2: Layers upon layers upon layers
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary03/genuary03_42lines.png" alt="Exactly 42 lines of code." width="200" height="200" />
+        <img src="genuary_03/genuary_03_42lines.png" alt="Exactly 42 lines of code." width="200" height="200" />
         <br/>JAN. 3: Exactly 42 lines of code
       </a>
     </td>
