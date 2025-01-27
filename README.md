@@ -4,13 +4,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/surbhi-bh/genuary2025/blob/main/genuary_01/genuary_01_lines.png">
         <img src="genuary_01/genuary_01_lines.png" alt="Vertical or horizontal lines only." width="200" height="200" />
         <br/>JAN. 1: Vertical or horizontal lines only
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/surbhi-bh/genuary2025/blob/main/genuary_02/genuary_02_layers.png">
         <img src="genuary_02/genuary_02_layers.png" alt="Layers upon layers upon layers." width="200" height="200" />
         <br/>JAN. 2: Layers upon layers upon layers
       </a>
