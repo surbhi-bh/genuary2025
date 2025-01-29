@@ -25,19 +25,19 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="genuary04/genuary04_blackonblack.png" alt="Black on black." width="200" height="200" />
+        <img src="genuary_04/genuary_04_blackonblack.png" alt="Black on black." width="200" height="200" />
         <br/>JAN. 4: Black on black
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary05/genuary05_isometric.png" alt="Isometric Art." width="200" height="200" />
+        <img src="genuary_05/genuary_05_isometric.png" alt="Isometric Art." width="200" height="200" />
         <br/>JAN. 5: Isometric Art (No vanishing points)
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary06/genuary06_landscape.png" alt="Primitive Shapes Landscape." width="200" height="200" />
+        <img src="genuary_06/genuary_06_landscape.png" alt="Primitive Shapes Landscape." width="200" height="200" />
         <br/>JAN. 6: Make a landscape using only primitive shapes
       </a>
     </td>
@@ -45,19 +45,19 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="genuary07/genuary07_nonartsoftware.png" alt="Use software not intended for art." width="200" height="200" />
+        <img src="genuary_07/genuary_07_nonartsoftware.png" alt="Use software not intended for art." width="200" height="200" />
         <br/>JAN. 7: Use software that is not intended to create art or images
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary08/genuary08_million.png" alt="Draw one million of something." width="200" height="200" />
+        <img src="genuary_08/genuary_08_million.png" alt="Draw one million of something." width="200" height="200" />
         <br/>JAN. 8: Draw one million of something
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary09/genuary09_transportpatterns.png" alt="Textile design patterns." width="200" height="200" />
+        <img src="genuary_09/genuary_09_transportpatterns.png" alt="Textile design patterns." width="200" height="200" />
         <br/>JAN. 9: The textile design patterns of public transport seating
       </a>
     </td>
@@ -65,19 +65,19 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="genuary10/genuary10_tau.png" alt="Using TAU in code." width="200" height="200" />
+        <img src="genuary_10/genuary_10_tau.png" alt="Using TAU in code." width="200" height="200" />
         <br/>JAN. 10: You can only use TAU in your code, no other number allowed
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary11/genuary11_impossible.png" alt="Impossible Day." width="200" height="200" />
+        <img src="genuary_11/genuary_11_impossible.png" alt="Impossible Day." width="200" height="200" />
         <br/>JAN. 11: Impossible day
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary12/genuary12_subdivision.png" alt="Subdivision." width="200" height="200" />
+        <img src="genuary_12/genuary_12_subdivision.png" alt="Subdivision." width="200" height="200" />
         <br/>JAN. 12: Subdivision
       </a>
     </td>
@@ -85,19 +85,19 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="genuary13/genuary13_triangles.png" alt="Triangles and nothing else." width="200" height="200" />
+        <img src="genuary_13/genuary_13_triangles.png" alt="Triangles and nothing else." width="200" height="200" />
         <br/>JAN. 13: Triangles and nothing else
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary14/genuary14_blackwhite.png" alt="Pure black and white." width="200" height="200" />
+        <img src="genuary_14/genuary_14_blackwhite.png" alt="Pure black and white." width="200" height="200" />
         <br/>JAN. 14: Pure black and white. No gray
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="genuary15/genuary15_rug.png" alt="Design a rug." width="200" height="200" />
+        <img src="genuary_15/genuary_15_rug.png" alt="Design a rug." width="200" height="200" />
         <br/>JAN. 15: Design a rug
       </a>
     </td>
