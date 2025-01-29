@@ -96,7 +96,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="genuary_15/genuary_15_rug.png">
         <img src="genuary_15/genuary_15_rug.png" alt="Design a rug." width="200" height="200" />
         <br/>JAN. 15: Design a rug
       </a>
